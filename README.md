@@ -1,6 +1,6 @@
 # CIScraper
 
-Get_user_email.ipynb contains a function that gets user’s email address given the user’s username
+webscraper.ipynb contains a function that gets the user’s username given a specific hash tag post
 Filter_profiles.ipynb filters profiles so we get legitimate users 
 	Criteria: 
 10K+ followers 
