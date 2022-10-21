@@ -13,5 +13,5 @@ Filter_profiles.ipynb filters profiles so we get legitimate users
  
 **NOTE: we should probably only run get_user_email on accounts that have 20k+ followers and a certain ratio of followers to engagement (e.g. likes/comments) on their most recent post. Since there are bot accounts on IG that have fake emails, these fake emails might freeze our account if we send an email to them!!! **
 
-##How to Run
+## How to Run
 Run program through webscraper.ipynb file, inputting specific hashtag requests accordingly.
